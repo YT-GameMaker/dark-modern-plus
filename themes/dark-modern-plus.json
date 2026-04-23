@@ -168,8 +168,8 @@
 		"typeParameter:csharp": "#8AB2FC",
 		"method:csharp": "#C5C391",
 		"function:csharp": "#C5C391",
-		"property:csharp": "#98C8E1",
-		"event:csharp": "#98C8E1",
+		"property:csharp": "#94C9E4",
+		"event:csharp": "#94C9E4",
 		"variable.local:csharp": "#B8B8B8",
 		"parameter:csharp": {
 			"foreground": "#A6C8B1"
@@ -313,7 +313,9 @@
 			}
 		},
 		{
-			"scope": "keyword",
+			"scope": [
+				"keyword"
+			],
 			"settings": {
 				"foreground": "#639FD8"
 			}
@@ -348,6 +350,22 @@
 			],
 			"settings": {
 				"foreground": "#C5C391"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.separator.hash.cs",
+				"keyword.preprocessor",
+				"entity.name.function.preprocessor"
+			],
+			"settings": {
+				"foreground": "#CB8AA7"
+			}
+		},
+		{
+			"scope": "string.unquoted.preprocessor.message.cs",
+			"settings": {
+				"foreground": "#CCCCCC"
 			}
 		},
 		{
@@ -412,7 +430,7 @@
 				"entity.name.variable.field"
 			],
 			"settings": {
-				"foreground": "#98C8E1"
+				"foreground": "#94C9E4"
 			}
 		},
 		{
@@ -421,7 +439,7 @@
 				"variable.other.event"
 			],
 			"settings": {
-				"foreground": "#98C8E1"
+				"foreground": "#94C9E4"
 			}
 		},
 		{
