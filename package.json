@@ -6,10 +6,10 @@
     "color": "#3c4854"
   },
   "description": "This theme is a modification of the built-in 'Default Dark Modern' theme to make C# code appear more readable.",
-  "publisher": "YY-GamePlayer",
-  "version": "2.0.1",
+  "publisher": "YT-GameMaker",
+  "version": "3.0.0",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.117.0"
   },
   "categories": [
     "Themes"
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuyang9119/dark-modern-plus.git"
+    "url": "git+https://github.com/YT-GameMaker/dark-modern-plus.git"
   }
 }
