@@ -6,7 +6,7 @@
     "color": "#3c4854"
   },
   "description": "This theme is a modification of the built-in 'Default Dark Modern' theme to make C# code appear more readable.",
-  "publisher": "YT-GameMaker",
+  "publisher": "YY-GamePlayer",
   "version": "3.0.0",
   "engines": {
     "vscode": "^1.117.0"
