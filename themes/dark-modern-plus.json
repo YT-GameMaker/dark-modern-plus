@@ -374,7 +374,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#c79698"
+				"foreground": "#c8978f"
 			}
 		},
 		{
@@ -422,25 +422,25 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#c79698"
+				"foreground": "#c8978f"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#c79698"
+				"foreground": "#c8978f"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#c79698"
+				"foreground": "#c8978f"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#c79698"
+				"foreground": "#c8978f"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 				"constant.other.option"
 			],
 			"settings": {
-				"foreground": "#c79698"
+				"foreground": "#c8978f"
 			}
 		},
 		{
@@ -1124,8 +1124,8 @@
 		"xmlDocCommentAttributeName:csharp": "#aedcd2",
 		"xmlDocCommentAttributeQuotes:csharp": "#CCCCCC",
 		"xmlDocCommentAttributeValue:csharp": "#e6bc8b",
-		"xmlDocCommentCDataSection:csharp": "#c79698",
-		"xmlDocCommentEntityReference:csharp": "#c79698",
+		"xmlDocCommentCDataSection:csharp": "#c8978f",
+		"xmlDocCommentEntityReference:csharp": "#c8978f",
 		"xmlDocCommentComment:csharp": "#6d7584",
 		"xmlDocCommentProcessingInstruction:csharp": "#73c78b",
 		"customLiteral": "#dbd3a2"
