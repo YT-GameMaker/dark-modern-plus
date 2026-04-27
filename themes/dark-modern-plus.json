@@ -209,7 +209,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#dcb783"
+				"foreground": "#f0ca96"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#dcb783"
+				"foreground": "#f0ca96"
 			}
 		},
 		{
@@ -374,13 +374,13 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#da9d88"
+				"foreground": "#d1947f"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#dcb783"
+				"foreground": "#f0ca96"
 			}
 		},
 		{
@@ -422,25 +422,25 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#da9d88"
+				"foreground": "#d1947f"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#da9d88"
+				"foreground": "#d1947f"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#da9d88"
+				"foreground": "#d1947f"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#da9d88"
+				"foreground": "#d1947f"
 			}
 		},
 		{
@@ -868,7 +868,7 @@
 				"entity.name.variable.enum-member.cs"
 			],
 			"settings": {
-				"foreground": "#dcb783"
+				"foreground": "#f0ca96"
 			}
 		},
 		{
@@ -977,13 +977,13 @@
 				"constant.other.option"
 			],
 			"settings": {
-				"foreground": "#da9d88"
+				"foreground": "#d1947f"
 			}
 		},
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#da9d88"
+				"foreground": "#f0ca96"
 			}
 		},
 		{
@@ -1049,7 +1049,7 @@
 				"comment.documentation.entityReference.cs"
 			],
 			"settings": {
-				"foreground": "#dcb783"
+				"foreground": "#f0ca96"
 			}
 		},
 		{
@@ -1109,9 +1109,9 @@
 		"property:csharp": "#aedcd2",
 		"field:csharp": "#aedcd2",
 		"event:csharp": "#aedcd2",
-		"enumMember:csharp": "#dcb783",
-		"constant:csharp": "#dcb783",
-		"variable.readonly:csharp": "#dcb783",
+		"enumMember:csharp": "#f0ca96",
+		"constant:csharp": "#f0ca96",
+		"variable.readonly:csharp": "#f0ca96",
 		"parameter:csharp": "#b9d4f1",
 		"variable:csharp": "#cccccc",
 		"module:csharp": "#CCCCCC",
@@ -1123,9 +1123,9 @@
 		"xmlDocCommentName:csharp": "#629ed2",
 		"xmlDocCommentAttributeName:csharp": "#aedcd2",
 		"xmlDocCommentAttributeQuotes:csharp": "#CCCCCC",
-		"xmlDocCommentAttributeValue:csharp": "#dcb783",
-		"xmlDocCommentCDataSection:csharp": "#da9d88",
-		"xmlDocCommentEntityReference:csharp": "#da9d88",
+		"xmlDocCommentAttributeValue:csharp": "#f0ca96",
+		"xmlDocCommentCDataSection:csharp": "#d1947f",
+		"xmlDocCommentEntityReference:csharp": "#d1947f",
 		"xmlDocCommentComment:csharp": "#6d7584",
 		"xmlDocCommentProcessingInstruction:csharp": "#73c78b",
 		"customLiteral": "#dbd3a2"
