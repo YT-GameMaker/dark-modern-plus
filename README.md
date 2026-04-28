@@ -12,4 +12,4 @@ Each syntactic role has a dedicated color. In C#, for example:
 
 This theme relies on **semantic highlighting** provided by the language server. When you first open a project, colors may appear incomplete for a moment — wait a few seconds for the language analysis to finish and the final colors will be applied.
 
-<img src="https://raw.githubusercontent.com/YT-GameMaker/PublicAssets/main/dark-modern-plus/Preview.png" alt="Preview" width="532"/>
+<img src="https://raw.githubusercontent.com/YT-GameMaker/PublicAssets/main/dark-modern-plus/Preview.png" alt="Preview" width="523"/>
