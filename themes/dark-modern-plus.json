@@ -209,7 +209,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#dfb585"
+				"foreground": "#deb684"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#dfb585"
+				"foreground": "#deb684"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#a6ded2"
+				"foreground": "#b4d6ef"
 			}
 		},
 		{
@@ -343,7 +343,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#c7988b"
+				"foreground": "#bc9c94"
 			}
 		},
 		{
@@ -373,13 +373,13 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#c7988b"
+				"foreground": "#bc9c94"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#dfb585"
+				"foreground": "#deb684"
 			}
 		},
 		{
@@ -421,25 +421,25 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#c7988b"
+				"foreground": "#bc9c94"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#c7988b"
+				"foreground": "#bc9c94"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#c7988b"
+				"foreground": "#bc9c94"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#c7988b"
+				"foreground": "#bc9c94"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#a6ded2"
+				"foreground": "#b4d6ef"
 			}
 		},
 		{
@@ -630,7 +630,7 @@
 				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#dad3a6"
+				"foreground": "#dad2ad"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 				"entity.name.type.delegate.cs"
 			],
 			"settings": {
-				"foreground": "#dad3a6"
+				"foreground": "#dad2ad"
 			}
 		},
 		{
@@ -770,7 +770,7 @@
 				"entity.name.function.cs"
 			],
 			"settings": {
-				"foreground": "#dad3a6"
+				"foreground": "#dad2ad"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 				"entity.name.variable.enum-member.cs"
 			],
 			"settings": {
-				"foreground": "#dfb585"
+				"foreground": "#deb684"
 			}
 		},
 		{
@@ -893,13 +893,13 @@
 				"entity.name.variable.event.cs"
 			],
 			"settings": {
-				"foreground": "#a6ded2"
+				"foreground": "#b4d6ef"
 			}
 		},
 		{
 			"scope": "entity.name.variable.parameter.cs",
 			"settings": {
-				"foreground": "#b4d5f7"
+				"foreground": "#b8dbc3"
 			}
 		},
 		{
@@ -976,13 +976,13 @@
 				"constant.other.option"
 			],
 			"settings": {
-				"foreground": "#c7988b"
+				"foreground": "#bc9c94"
 			}
 		},
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#dfb585"
+				"foreground": "#deb684"
 			}
 		},
 		{
@@ -1031,7 +1031,7 @@
 				"comment.documentation.attribute.name.cs"
 			],
 			"settings": {
-				"foreground": "#a6ded2"
+				"foreground": "#b4d6ef"
 			}
 		},
 		{
@@ -1048,7 +1048,7 @@
 				"comment.documentation.entityReference.cs"
 			],
 			"settings": {
-				"foreground": "#dfb585"
+				"foreground": "#deb684"
 			}
 		},
 		{
@@ -1130,13 +1130,13 @@
 		{
 			"scope": "variable.other.jsdoc",
 			"settings": {
-				"foreground": "#a6ded2"
+				"foreground": "#b4d6ef"
 			}
 		},
 		{
 			"scope": "support.type.property-name.json",
 			"settings": {
-				"foreground": "#a6ded2"
+				"foreground": "#b4d6ef"
 			}
 		},
 		{
@@ -1179,21 +1179,21 @@
 		"interface:csharp": "#33c9c5",
 		"enum:csharp": "#a7bc61",
 		"typeParameter:csharp": "#3cc4e1",
-		"delegate:csharp": "#dad3a6",
+		"delegate:csharp": "#dad2ad",
 		"array:csharp": "#56c9a2",
 		"pointer:csharp": "#56c9a2",
-		"functionPointer:csharp": "#dad3a6",
-		"method:csharp": "#dad3a6",
-		"extensionMethod:csharp": "#dad3a6",
-		"function:csharp": "#dad3a6",
-		"operatorOverloaded:csharp": "#dad3a6",
-		"property:csharp": "#a6ded2",
-		"field:csharp": "#a6ded2",
-		"event:csharp": "#a6ded2",
-		"enumMember:csharp": "#dfb585",
-		"constant:csharp": "#dfb585",
-		"variable.readonly:csharp": "#dfb585",
-		"parameter:csharp": "#b4d5f7",
+		"functionPointer:csharp": "#dad2ad",
+		"method:csharp": "#dad2ad",
+		"extensionMethod:csharp": "#dad2ad",
+		"function:csharp": "#dad2ad",
+		"operatorOverloaded:csharp": "#dad2ad",
+		"property:csharp": "#b4d6ef",
+		"field:csharp": "#b4d6ef",
+		"event:csharp": "#b4d6ef",
+		"enumMember:csharp": "#deb684",
+		"constant:csharp": "#deb684",
+		"variable.readonly:csharp": "#deb684",
+		"parameter:csharp": "#b8dbc3",
 		"variable:csharp": "#cccccc",
 		"module:csharp": "#CCCCCC",
 		"preprocessorText:csharp": "#CCCCCC",
@@ -1202,13 +1202,13 @@
 		"xmlDocCommentText:csharp": "#8177ac",
 		"xmlDocCommentDelimiter:csharp": "#8177ac",
 		"xmlDocCommentName:csharp": "#699fc5",
-		"xmlDocCommentAttributeName:csharp": "#a6ded2",
+		"xmlDocCommentAttributeName:csharp": "#b4d6ef",
 		"xmlDocCommentAttributeQuotes:csharp": "#CCCCCC",
-		"xmlDocCommentAttributeValue:csharp": "#dfb585",
-		"xmlDocCommentCDataSection:csharp": "#c7988b",
-		"xmlDocCommentEntityReference:csharp": "#c7988b",
+		"xmlDocCommentAttributeValue:csharp": "#deb684",
+		"xmlDocCommentCDataSection:csharp": "#bc9c94",
+		"xmlDocCommentEntityReference:csharp": "#bc9c94",
 		"xmlDocCommentComment:csharp": "#798090",
 		"xmlDocCommentProcessingInstruction:csharp": "#56c9a2",
-		"customLiteral": "#dad3a6"
+		"customLiteral": "#dad2ad"
 	}
 }
