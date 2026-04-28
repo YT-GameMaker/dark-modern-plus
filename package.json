@@ -7,7 +7,7 @@
   },
   "description": "A dark theme based on VS Code's built-in *Dark Modern*, redesigned to give every distinct syntax element its own color — making code structure visible at a glance. Optimized especially for **C#**, with dedicated colors for classes, structs, interfaces, enums, methods, properties, modifiers, and more.",
   "publisher": "YY-GamePlayer",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "engines": {
     "vscode": "^1.117.0"
   },
