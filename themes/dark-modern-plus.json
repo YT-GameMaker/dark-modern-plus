@@ -7,7 +7,7 @@
 		"checkbox.border": "#3C3C3C",
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#CCCCCC",
-		"editor.inactiveSelectionBackground": "#00000000",
+		"editor.inactiveSelectionBackground": "#60708080",
 		"editorIndentGuide.background1": "#404040",
 		"editorIndentGuide.activeBackground1": "#707070",
 		"editor.selectionHighlightBackground": "#ADD6FF26",
