@@ -2,6 +2,10 @@
 
 All notable changes to the "dark-modern-plus" extension will be documented in this file.
 
+## [4.0.6] - 2026-4-27
+
+- Fix selection highlight disappearing when right-clicking: restore a visible `editor.inactiveSelectionBackground` instead of transparent.
+
 ## [4.0.0] - 2026-4-27
 
 - Recalibrate all token colors using a perceptually uniform color space for more consistent brightness and saturation.
