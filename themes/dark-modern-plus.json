@@ -1186,7 +1186,7 @@
 		"method:csharp": "#dcd2a5",
 		"extensionMethod:csharp": "#dcd2a5",
 		"function:csharp": "#dcd2a5",
-		"operatorOverloaded:csharp": "#dcd2a5",
+		"operatorOverloaded:csharp": "#CCCCCC",
 		"property:csharp": "#abd8f3",
 		"field:csharp": "#abd8f3",
 		"event:csharp": "#abd8f3",

@@ -2,6 +2,10 @@
 
 All notable changes to the "dark-modern-plus" extension will be documented in this file.
 
+## [4.0.7] - 2026-4-27
+
+- Unify overloaded operator color with built-in operators (both now use the default foreground color).
+
 ## [4.0.6] - 2026-4-27
 
 - Fix selection highlight disappearing when right-clicking: restore a visible `editor.inactiveSelectionBackground` instead of transparent.
