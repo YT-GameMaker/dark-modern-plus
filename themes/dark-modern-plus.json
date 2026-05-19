@@ -40,11 +40,11 @@
 		"editor.wordHighlightStrongBackground": "#00000000",
 		"editor.wordHighlightStrongBorder": "#70c0ff",
 		"editorBracketHighlight.foreground1": "#dcba5c",
-		"editorBracketHighlight.foreground2": "#69c9ff",
-		"editorBracketHighlight.foreground3": "#eea0dc",
+		"editorBracketHighlight.foreground2": "#eea0dc",
+		"editorBracketHighlight.foreground3": "#69c9ff",
 		"editorBracketHighlight.foreground4": "#dcba5c",
-		"editorBracketHighlight.foreground5": "#69c9ff",
-		"editorBracketHighlight.foreground6": "#eea0dc",
+		"editorBracketHighlight.foreground5": "#eea0dc",
+		"editorBracketHighlight.foreground6": "#69c9ff",
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBorder": "#0078D4",
 		"activityBar.background": "#181818",
@@ -747,7 +747,7 @@
 				"entity.name.type.delegate.cs"
 			],
 			"settings": {
-				"foreground": "#dcd2a5"
+				"foreground": "#56c9a2"
 			}
 		},
 		{
@@ -770,7 +770,7 @@
 				"entity.name.function.cs"
 			],
 			"settings": {
-				"foreground": "#dcd2a5"
+				"foreground": "#CCCCCC"
 			}
 		},
 		{
@@ -1179,7 +1179,7 @@
 		"interface:csharp": "#33c9c5",
 		"enum:csharp": "#a7bc61",
 		"typeParameter:csharp": "#3cc4e1",
-		"delegate:csharp": "#dcd2a5",
+		"delegate:csharp": "#56c9a2",
 		"array:csharp": "#56c9a2",
 		"pointer:csharp": "#56c9a2",
 		"functionPointer:csharp": "#dcd2a5",

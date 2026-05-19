@@ -2,6 +2,12 @@
 
 All notable changes to the "dark-modern-plus" extension will be documented in this file.
 
+## [4.0.8] - 2026-05-19
+
+- Rebalance bracket pair highlight sequencing so the alternating blue and pink levels line up consistently across nested pairs.
+- Change C# delegate coloring to use the type color instead of the method color in both semantic and fallback token rules.
+- Set the fallback `entity.name.function.cs` color to the default foreground to reduce misleading method-name highlighting before semantic tokens arrive.
+
 ## [4.0.7] - 2026-4-27
 
 - Unify overloaded operator color with built-in operators (both now use the default foreground color).
